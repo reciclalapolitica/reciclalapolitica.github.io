@@ -1,13 +1,13 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "Small Help Can Make Change"
-  title : "New hope for <br> near future"
-  content : "Your small contribution means a lot. Natus officia amet hic <br> accusamus repellat magni reprehenderit dolorem."
+  subtitle : "El acuerdo para una nueva constitución verde."
+  title : "Recicla la política"
+  content : "Un pacto verde para enfrentar la crisis socioecológica, climática y sanitaria."
   button:
     enable : true
-    label : "Donate Now"
-    link : "donation"
+    label : "¿De qué se trata?"
+    link : "about"
 
 ############################# Intro ##################################
 intro:
