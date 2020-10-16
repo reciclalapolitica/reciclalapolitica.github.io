@@ -46,42 +46,42 @@ paginate = 6
 [menu]
     
   [[menu.main]]
-  name = "About"
+  name = "Pacto Verde"
   URL = "about"
   weight = 2
   
   [[menu.main]]
-  name = "Blog"
+  name = "Noticias"
   URL = "blog"
   weight = 3
   
   [[menu.main]]
-  name = "Causes"
+  name = "Decálogo"
   URL = "causes"
   weight = 4
 
   [[menu.main]]
   weight = 5
-  name = "Get Involved"
+  name = "Súmate"
   hasChildren = true
 
     [[menu.main]]
-    parent = "Get Involved"
-    name = "Donation"
-    URL = "donation"
-
-    [[menu.main]]
-    parent = "Get Involved"
-    name = "Volunteer"
+    parent = "Súmate"
+    name = "Voluntariado"
     URL = "volunteer"
+    
+    [[menu.main]]
+    parent = "Súmate"
+    name = "Donaciones"
+    URL = "donation"    
   
   [[menu.main]]
-  name = "Event"
+  name = "Eventos"
   URL = "event"
   weight = 6
     
   [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   URL = "contact"
   weight = 7
 
@@ -110,7 +110,7 @@ paginate = 6
 
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Inicio"
 # Contact Information
 phone = "012548722120"
 email = "example@email.com"
