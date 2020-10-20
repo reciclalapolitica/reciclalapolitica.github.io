@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://reciclalapolitica.github.io/about/</loc>
-    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
+    <loc>https://reciclalapolitica.github.io/contact/</loc>
+    <lastmod>2020-10-20T11:28:32+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reciclalapolitica.github.io/</loc>
+    <lastmod>2020-10-20T11:28:32+06:00</lastmod>
   </url>
   
   <url>
@@ -24,11 +29,6 @@
   
   <url>
     <loc>https://reciclalapolitica.github.io/categories/</loc>
-    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reciclalapolitica.github.io/contact/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
   </url>
   
@@ -104,6 +104,11 @@
   
   <url>
     <loc>https://reciclalapolitica.github.io/causes/</loc>
+    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reciclalapolitica.github.io/about/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
   </url>
   
@@ -189,11 +194,6 @@
   
   <url>
     <loc>https://reciclalapolitica.github.io/tags/water/</loc>
-    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reciclalapolitica.github.io/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
   </url>
   
