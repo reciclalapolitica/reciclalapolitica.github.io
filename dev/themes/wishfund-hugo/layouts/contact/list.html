@@ -7,25 +7,25 @@
     <div class="row">
       <div class="col-lg-6 col-sm-12 col-md-6">
         <div class="contact-content">
-          <h2 class="mb-5">We’d love to hear from you! <br>Give us call, send us a message?</h2>
+          <h2 class="mb-5">Pongámonos en contacto.<br>¿Nos envías un mensaje?</h2>
           <ul class="address-block list-unstyled">
             <li>
-              <h6 class="mb-2">Address</h6>
+              <h6 class="mb-2">Dirección</h6>
               {{ .Site.Params.location | markdownify }}
             </li>
             <li>
-              <h6 class="mb-2">email us</h6>
+              <h6 class="mb-2">Nuestro correo</h6>
               {{ .Site.Params.email }}
             </li>
             <li>
-              <h6 class="mb-2">Phone Number</h6>
+              <h6 class="mb-2">Número de teléfono</h6>
               {{ .Site.Params.phone }}
             </li>
           </ul>
 
           <ul class="social-icons list-inline mt-5">
             <li>
-              <h6 class="mb-3">Find us on social media</h6>
+              <h6 class="mb-3">Síguenos en nuestras redes sociales</h6>
             </li>
             {{ range .Site.Params.social }}
             <li class="list-inline-item">
@@ -52,13 +52,13 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
         <form id="contact-form" class="contact__form" method="post" action="mail.php">
-          <span class="text-color">Send a message</span>
-          <h3 class="text-md mb-5">Contact Form</h3>
+          <span class="text-color">Envíanos un mensaje</span>
+          <h3 class="text-md mb-5">Formulario de contacto</h3>
           <!-- form message -->
           <div class="row">
             <div class="col-12">
               <div class="alert alert-success contact__msg" style="display: none" role="alert">
-                Your message was sent successfully.
+                ¡Muchas gracias! Tu mensaje ha sido enviado.
               </div>
             </div>
           </div>
@@ -66,34 +66,34 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="form-group">
-                <label>Your Name *</label>
+                <label>Tu nombre *</label>
                 <input name="name" type="text" class="form-control">
               </div>
             </div>
             <div class="col-lg-6">
               <div class="form-group">
-                <label>Your Email *</label>
+                <label>Tu correo *</label>
                 <input name="email" type="email" class="form-control">
               </div>
             </div>
             <div class="col-lg-6">
               <div class="form-group">
-                <label>Your Subject *</label>
+                <label>Asunto *</label>
                 <input name="subjecte" type="text" class="form-control">
               </div>
             </div>
             <div class="col-lg-6">
               <div class="form-group">
-                <label>Your Phone Number *</label>
+                <label>Número de contacto *</label>
                 <input name="phone" type="number" class="form-control">
               </div>
             </div>
           </div>
           <div class="form-group mb-4">
-            <label>Your Message *</label>
+            <label>Tu mensaje *</label>
             <textarea name="message" class="form-control" rows="6"></textarea>
           </div>
-          <button class="btn btn-main rounded" name="submit" type="submit">Send Message</button>
+          <button class="btn btn-main rounded" name="submit" type="submit">Enviar mensaje</button>
         </form>
       </div>
     </div>

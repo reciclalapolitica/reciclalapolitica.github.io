@@ -52,7 +52,7 @@ paginate = 6
   
   [[menu.main]]
   name = "Noticias"
-  URL = "blog"
+  URL = "#"
   weight = 3
   
   [[menu.main]]
@@ -68,16 +68,16 @@ paginate = 6
     [[menu.main]]
     parent = "Súmate"
     name = "Voluntariado"
-    URL = "volunteer"
+    URL = "#"
     
     [[menu.main]]
     parent = "Súmate"
     name = "Donaciones"
-    URL = "donation"    
+    URL = "#"    
   
   [[menu.main]]
   name = "Eventos"
-  URL = "event"
+  URL = "#"
   weight = 6
     
   [[menu.main]]
@@ -93,7 +93,7 @@ paginate = 6
   weight = 1
 
   [[menu.footer]]
-  name = "about"
+  name = "Pacto Verde"
   URL = "about"
   weight = 2
   
@@ -112,18 +112,18 @@ paginate = 6
 logo = "images/logo.png"
 home = "Inicio"
 # Contact Information
-phone = "012548722120"
-email = "example@email.com"
-location = "Flat 20, Reynolds Neck, North Helenaville, FV77"
-copyright = "&copy; 2019 a theme by [themefisher](https://themefisher.com/)"
+phone = "+569 8 613 7390"
+email = "reciclalapolitica@gmail.com"
+location = "Plaza Baquedano, Providencia, Región Metropolitana"
+copyright = "&copy; 2020 [Recicla la Política](#)"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Recicla la Política - Un pacto verde para enfrentar la crisis socioecológica, climática y sanitaria."
+author = "Recicla la Política"
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDcYmkpfUJlz82RUknm_QR07ZBtmATaViE&libraries=places"
+mapLatitude = "-33.437"
+mapLongitude = "-70.634"
+mapMarker = "images/marker-green.png"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
@@ -139,12 +139,12 @@ googleAnalitycsID = "Your ID"
   [params.navBtn]
   enable = true
   label = "Get a quote"
-  link = "donation"
+  link = "#"
 
   # Subscription
   [params.subscription]
-  title = "Subscribe Us"
-  content = "Subscribe to get latest news article and resources"
+  title = "Suscríbete"
+  content = "Entérate de las últimas noticias con nuestro newsletter."
   
 
   #################### social icon ######################################
@@ -159,13 +159,13 @@ googleAnalitycsID = "Your ID"
   link = "#"
   
   [[params.social]]
-  name = "Vimeo"
-  icon = "ti-vimeo-alt" # themify icon pack https://themify.me/themify-icons
+  name = "Instagram"
+  icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
   link = "#"
   
   [[params.social]]
-  name = "Github"
-  icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+  name = "Youtube"
+  icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
   link = "#"
   
 ############################# post share links ######################

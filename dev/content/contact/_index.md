@@ -1,7 +1,7 @@
 ---
-title: "Contact Us"
-date: 2019-09-25T11:28:32+06:00
+title: "Contacto"
+date: 2020-10-20T11:28:32+06:00
 draft: false
-description : "this is a meta description"
+description : "Recicle la Política - Contacto"
 bgImage: "images/bg/bg-3.jpg"
 ---
