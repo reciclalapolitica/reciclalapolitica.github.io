@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog articles on Recicla la Política</title>
+    <title>Recicla la Política</title>
     <link>https://reciclalapolitica.github.io/blog/</link>
-    <description>Recent content in Blog articles on Recicla la Política</description>
+    <description>Recent content on Recicla la Política</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Sep 2019 11:28:32 +0600</lastBuildDate>
@@ -12,57 +12,21 @@
     
     
     <item>
-      <title>Medicine For Poor Children</title>
-      <link>https://reciclalapolitica.github.io/blog/blog-post-4/</link>
-      <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
+      <title>Decálogo del constituyente verde</title>
+      <link>https://reciclalapolitica.github.io/blog/decalogo/</link>
+      <pubDate>Sun, 01 Nov 2020 11:28:32 +0600</pubDate>
       
-      <guid>https://reciclalapolitica.github.io/blog/blog-post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
+      <guid>https://reciclalapolitica.github.io/blog/decalogo/</guid>
+      <description>Se inicia un proceso constituyente que convocará a las y los chilenos para dotarse de un nuevo pacto político y social, que permita construir una sociedad más justa, inclusiva y sustentable.</description>
     </item>
     
     <item>
-      <title>Medicine For Poor Children</title>
-      <link>https://reciclalapolitica.github.io/blog/blog-post-5/</link>
+      <title>Pacto verde</title>
+      <link>https://reciclalapolitica.github.io/blog/pacto-verde/</link>
       <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
       
-      <guid>https://reciclalapolitica.github.io/blog/blog-post-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
-    </item>
-    
-    <item>
-      <title>Pure Water Is More Essential</title>
-      <link>https://reciclalapolitica.github.io/blog/blog-post-3/</link>
-      <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
-      
-      <guid>https://reciclalapolitica.github.io/blog/blog-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
-    </item>
-    
-    <item>
-      <title>Save The Child For New World</title>
-      <link>https://reciclalapolitica.github.io/blog/blog-post-1/</link>
-      <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
-      
-      <guid>https://reciclalapolitica.github.io/blog/blog-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
-    </item>
-    
-    <item>
-      <title>Save The Child For New World</title>
-      <link>https://reciclalapolitica.github.io/blog/blog-post-6/</link>
-      <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
-      
-      <guid>https://reciclalapolitica.github.io/blog/blog-post-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
-    </item>
-    
-    <item>
-      <title>Shelter For Homeless Child</title>
-      <link>https://reciclalapolitica.github.io/blog/blog-post-2/</link>
-      <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
-      
-      <guid>https://reciclalapolitica.github.io/blog/blog-post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
+      <guid>https://reciclalapolitica.github.io/blog/pacto-verde/</guid>
+      <description>Un pacto verde para enfrentar la crisis socioecológica climática y sanitaria I.</description>
     </item>
     
   </channel>

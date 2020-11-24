@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>decalogo on Recicla la Política</title>
+    <link>https://reciclalapolitica.github.io/tags/decalogo/</link>
+    <description>Recent content in decalogo on Recicla la Política</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 11:28:32 +0600</lastBuildDate>
+    
+	<atom:link href="https://reciclalapolitica.github.io/tags/decalogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Decálogo del constituyente verde</title>
+      <link>https://reciclalapolitica.github.io/blog/decalogo/</link>
+      <pubDate>Sun, 01 Nov 2020 11:28:32 +0600</pubDate>
+      
+      <guid>https://reciclalapolitica.github.io/blog/decalogo/</guid>
+      <description>Se inicia un proceso constituyente que convocará a las y los chilenos para dotarse de un nuevo pacto político y social, que permita construir una sociedad más justa, inclusiva y sustentable.</description>
+    </item>
+    
+  </channel>
+</rss>
