@@ -2,39 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Recicla la Política</title>
-    <link>https://reciclalapolitica.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Recicla la Política</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 11:28:32 +0600</lastBuildDate>
-    
-	<atom:link href="https://reciclalapolitica.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>constitución</title>
-      <link>https://reciclalapolitica.github.io/tags/constituci%C3%B3n/</link>
-      <pubDate>Sun, 01 Nov 2020 11:28:32 +0600</pubDate>
-      
-      <guid>https://reciclalapolitica.github.io/tags/constituci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>decalogo</title>
-      <link>https://reciclalapolitica.github.io/tags/decalogo/</link>
-      <pubDate>Sun, 01 Nov 2020 11:28:32 +0600</pubDate>
-      
-      <guid>https://reciclalapolitica.github.io/tags/decalogo/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:01 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pacto</title>
-      <link>https://reciclalapolitica.github.io/tags/pacto/</link>
-      <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
+      <link>/tags/pacto/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:01 +0000</pubDate>
       
-      <guid>https://reciclalapolitica.github.io/tags/pacto/</guid>
+      <guid>/tags/pacto/</guid>
       <description></description>
     </item>
     

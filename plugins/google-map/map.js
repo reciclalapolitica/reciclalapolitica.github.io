@@ -5,6 +5,8 @@ function initialize() {
   var latitude = $('#map').attr('data-latitude');
   var longitude = $('#map').attr('data-longitude');
   var mapMarker = $('#map').attr('data-marker');
+  var mapDistrito = $('#map').attr('data-distrito');
+  var zoomMapa = $('#map').attr('zoom-mapa');
   var nottingham = new google.maps.LatLng(latitude, longitude);
   var style = [{
       "featureType": "all",
@@ -63,13 +65,13 @@ function initialize() {
       "featureType": "administrative",
       "elementType": "geometry.stroke",
       "stylers": [{
-          "color": "#fefefe"
+          "color": "#0d753c"
         },
         {
           "lightness": 17
         },
         {
-          "weight": 1.2
+          "weight": 1.5
         }
       ]
     },
@@ -134,7 +136,7 @@ function initialize() {
           "visibility": "off"
         },
         {
-          "color": "#0d753c"
+          "color": "#2a2a2a"
         }
       ]
     },
@@ -174,7 +176,7 @@ function initialize() {
           "visibility": "on"
         },
         {
-          "color": "#0d753c"
+          "color": "#2a2a2a"
         }
       ]
     },
@@ -182,14 +184,14 @@ function initialize() {
       "featureType": "road",
       "elementType": "labels.text.fill",
       "stylers": [{
-        "color": "#0d753c"
+        "color": "#b5b5b5"
       }]
     },
     {
       "featureType": "road.highway",
       "elementType": "geometry.fill",
       "stylers": [{
-          "color": "#0d753c"
+          "color": "#feefc3"
         },
         {
           "lightness": 17
@@ -257,7 +259,7 @@ function initialize() {
       "featureType": "transit",
       "elementType": "geometry.fill",
       "stylers": [{
-        "color": "#0d753c"
+        "color": "#f1e9d7"
       }]
     },
     {
@@ -278,7 +280,7 @@ function initialize() {
           "visibility": "on"
         },
         {
-          "color": "#0d753c"
+          "color": "#9cc0f9"
         }
       ]
     }
@@ -287,7 +289,7 @@ function initialize() {
     center: nottingham,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     backgroundColor: "#000",
-    zoom: 15,
+    zoom: parseInt(zoomMapa),
     panControl: false,
     zoomControl: true,
     mapTypeControl: false,
@@ -305,15 +307,32 @@ function initialize() {
   map.mapTypes.set('grey', mapType);
   map.setMapTypeId('grey');
   var marker_image = mapMarker;
+  var marker_distito = mapDistrito;
   var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(46, 50));
+
+  const ctaLayer = new google.maps.KmlLayer({
+    url: marker_distito,
+    map: map,
+  });
+  console.log(marker_distito);
+  
+
+
   marker = new google.maps.Marker({
     position: nottingham,
     map: map,
     icon: pinIcon,
-    title: 'WishFund'
+    title: 'Recicla la Política'
   });
+
+
+
 }
 var map = document.getElementById('map');
 if (map != null) {
   google.maps.event.addDomListener(window, 'load', initialize);
 }
+
+
+
+

@@ -2,30 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Recicla la Política</title>
-    <link>https://reciclalapolitica.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Recicla la Política</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 11:28:32 +0600</lastBuildDate>
-    
-	<atom:link href="https://reciclalapolitica.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Jan 2021 21:57:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Decálogo</title>
-      <link>https://reciclalapolitica.github.io/categories/dec%C3%A1logo/</link>
-      <pubDate>Sun, 01 Nov 2020 11:28:32 +0600</pubDate>
+      <title>Conversatorio</title>
+      <link>/categories/conversatorio/</link>
+      <pubDate>Tue, 19 Jan 2021 21:57:00 +0000</pubDate>
       
-      <guid>https://reciclalapolitica.github.io/categories/dec%C3%A1logo/</guid>
+      <guid>/categories/conversatorio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acuerdos</title>
-      <link>https://reciclalapolitica.github.io/categories/acuerdos/</link>
-      <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
+      <link>/categories/acuerdos/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:01 +0000</pubDate>
       
-      <guid>https://reciclalapolitica.github.io/categories/acuerdos/</guid>
+      <guid>/categories/acuerdos/</guid>
       <description></description>
     </item>
     

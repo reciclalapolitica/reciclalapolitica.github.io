@@ -2,14 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resultados búsqueda on Recicla la Política</title>
-    <link>https://reciclalapolitica.github.io/search/</link>
+    <link>/search/</link>
     <description>Recent content in Resultados búsqueda on Recicla la Política</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2019 11:28:32 +0600</lastBuildDate>
-    
-	<atom:link href="https://reciclalapolitica.github.io/search/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 25 Sep 2019 11:28:32 +0600</lastBuildDate><atom:link href="/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
