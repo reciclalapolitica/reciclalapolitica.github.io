@@ -451,6 +451,10 @@
               </li>
               
               <li class="nav-item">
+                <a class="nav-link" id="distrito22">Distrito 22</a>
+              </li>
+              
+              <li class="nav-item">
                 <a class="nav-link" id="distrito24">Distrito 24</a>
               </li>
               
@@ -649,6 +653,15 @@
           <div id="distrito21-card" class="card-body my-3 distrito-card" linkURL="https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B021">
             <h5 class="card-title">Distrito Electoral N°21</h5>
             <p class="card-text">El distrito se compone de las siguientes comunas: Alto Biobío, Antuco, Arauco, Cabrero, Cañete, Contulmo, Curanilahue, Laja, Lebu, Los Alamos, Los Angeles, Lota, Mulchén, Nacimiento, Negrete, Quilaco, Quilleco, San Rosendo, Santa Bárbara, Tirúa, Tucapel, Yumbel</p>
+            
+
+
+          </div>
+
+          
+          <div id="distrito22-card" class="card-body my-3 distrito-card" linkURL="https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B022">
+            <h5 class="card-title">Distrito Electoral N°22</h5>
+            <p class="card-text">El distrito se compone de las siguientes comunas: Angol , Collipulli , Curacautín , Ercilla , Galvarino , Lautaro , Lonquimay , Los Sauces , Lumaco , Melipeuco , Perquenco , Purén , Renaico , Traiguén , Victoria , Vilcún</p>
             
 
 
@@ -2403,6 +2416,40 @@
             </div>        
 
         
+          
+
+            <div class="col-sm-4 my-3 candidato-control candidato-distrito-22">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">Sofia Del Carmen Painiqueo Tragnolao</h5>
+                  <p class="card-text">Candidato a constituyente por el Distrito 22 </p>
+                  <p class="card-text">Lista: Lista del Apruebo </p>
+                  <p class="card-text">Sexo: Mujer </p>
+                  <p class="card-text">Partido político: Independiente </p>
+                  
+                  <a href="https://interactivo.latercera.com/candidatos-constituyentes/distrito-22/sofia-del-carmen-painiqueo-tragnolao/" target="_blank" class="btn btn-main rounded">Contactar</a>
+                </div>
+              </div>
+            </div>        
+
+        
+          
+
+            <div class="col-sm-4 my-3 candidato-control candidato-distrito-22">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">Katherina Elisabeth Hidalgo Campos</h5>
+                  <p class="card-text">Candidato a constituyente por el Distrito 22 </p>
+                  <p class="card-text">Lista: Lista del Apruebo </p>
+                  <p class="card-text">Sexo: Mujer </p>
+                  <p class="card-text">Partido político: Independiente </p>
+                  
+                  <a href="https://www.facebook.com/katherina.h.campos" target="_blank" class="btn btn-main rounded">Contactar</a>
+                </div>
+              </div>
+            </div>        
+
+        
         </div>
 
 
@@ -2816,6 +2863,12 @@ $(document).ready(function(){
         var imgDistrito = "../images/gallery/marker-distrito-21.png";
         clickDistrito("-33.437", "-70.634", "8", imgDistrito);
         activeControl(this,"21");
+    });
+  
+    $( "#distrito22" ).click(function() {
+        var imgDistrito = "../images/gallery/marker-distrito-22.png";
+        clickDistrito("-33.437", "-70.634", "8", imgDistrito);
+        activeControl(this,"22");
     });
   
     $( "#distrito24" ).click(function() {
